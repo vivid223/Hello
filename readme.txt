@@ -1,2 +1,3 @@
 Git is a distributed version control system.
-git is ferr software distributed under the GPL.
+Git is ferr software distributed under the GPL.
+Git has a mutable index called stage.
